@@ -1,5 +1,5 @@
 # 🌟 약꼬박
-**찍거나 말하거나, 초간편 복약 알리미**
+***찍거나 말하거나, 초간편 복약 알리미***
 
 약꼬박은 약봉투 촬영(OCR) 또는 음성(STT) 입력만으로  
 복약 시간·횟수·기간을 자동 추출해 알림을 등록하는 **완전 자동화 복약 관리 앱**입니다.  
@@ -11,8 +11,8 @@
 
 
 <p align="left">
-  <img src="그림1.png" width="500" />
-  <img src="그림2.png" width="500" />
+  <img src="/assets/mockup_image1.png" width="500" />
+  <img src="/assets/mockup_image2.png" width="500" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### 🧓 5) 시니어 친화적 UI
+### 👨‍🦳 5) 시니어 친화적 UI
 - 큰 글씨, 큰 버튼  
 - 2–3단계면 누구나 등록 가능  
 - 사용자가 ‘입력’을 하지 않아도 되는 **Zero-Input UX**
@@ -67,14 +67,14 @@
 
 ### 2. 등록 방식
 **A. 약봉투 촬영**  
-**B. 음성으로 “아침 저녁 3일치 약 등록해줘”라고 말하기**
+**B. 음성으로 “타이레놀 아침 저녁 3일치 약 등록해줘”라고 말하기**
 
 ### 3. AI 자동 해석  
 - OCR/STT → 복약 정보 파싱  
 - 식사 시간 기반 식후/식전 시간 자동 계산  
 
-### 4. 사용자 확인  
-- “이렇게 맞나요?” 단일 확인 화면 제공  
+### 4. 사용자 확인 과정 
+- “입력된 정보가 맞나요?” 단일 확인 화면 제공  
 
 ### 5. 알림 제공  
 - 약 복용 시간에 큰 글씨 알림  
@@ -135,8 +135,8 @@ flowchart TD
 
 # 👥 구성원
 
-* 95ChrisJHUm
-* GG0hen1
-* HwangSeungMin
-* jjoyu1
-* minstitia
+* [95ChrisJHUm](https://github.com/95ChrisJHUm)
+* [GG0hen1](https://github.com/GG0hen1)
+* [HwangSeungMin](https://github.com/HwangSeungMin)
+* [jjoyu1](https://github.com/jjoyu1)
+* [minstitia](https://github.com/minstitia)
