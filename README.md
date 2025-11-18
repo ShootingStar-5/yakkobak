@@ -1,4 +1,9 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# AI Medicine Alarm Function & Recomandation for nutritional supplements
+@YacKkoBak
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Function 
+1. OCR
+
+2. STT
+
+3. User Setting
