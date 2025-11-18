@@ -7,12 +7,12 @@
 
 ---
 
-## 📱 UI Mockups
+## 📱 목업
 
-> 아래 이미지는 README 데모용이며, 실제 프로젝트에서는 /assets 폴더 이미지로 교체하세요.
 
-<p align="center">
-  <img src="PUT-YOUR-MOCKUP-IMAGE-LINK.png" width="780" />
+<p align="left">
+  <img src="그림1.png" width="500" />
+  <img src="그림2.png" width="500" />
 </p>
 
 ---
@@ -133,13 +133,7 @@ flowchart TD
 
 ---
 
-# 📝 License
-
-**MIT License**
-
----
-
-# 👥 팀 'Shooting Star'
+# 👥 구성원
 
 * 95ChrisJHUm
 * GG0hen1
